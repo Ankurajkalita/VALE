@@ -2,7 +2,7 @@ import streamlit as st
 
 # Function to add background image
 def add_bg_from_local():
-    bg_image = ""
+    bg_image = "https://media.istockphoto.com/id/508495114/photo/heart-bokeh-background.jpg?s=2048x2048&w=is&k=20&c=OLx8oeIFggOTc_aMMEXVb_otua8BiRdJddWkwQsHIss="
     st.markdown(
         f"""
         <style>
