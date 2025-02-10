@@ -2,7 +2,7 @@ import streamlit as st
 
 # Function to add background image
 def add_bg_from_local():
-    bg_image = "https://s1.bwallpapers.com/wallpapers/2014/01/18/happy-valentines-day-wide_104144.jpg"
+    bg_image = ""
     st.markdown(
         f"""
         <style>
