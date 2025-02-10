@@ -112,7 +112,7 @@ if st.button("Find My Love Language 💌"):
     }
     
     poetry = {
-        "Words of Affirmation": "💖 Your words are petals, soft and true,\nA A garden where my love for you grew. \nFor love is spoken, soft and free,\nA melody just for “You and Me.” 💖",
+        "Words of Affirmation": "Your words are petals, soft and true,\nA A garden where my love for you grew. \nFor love is spoken, soft and free,\nA melody just for “You and Me.” 💖",
         "Receiving Gifts": "Wrapped in paper, or just a thought,\nThe love you give is never bought.\nA single rose, a gift so true,\nEvery token reminds me of you. 🎁🌹",
         "Quality Time": "With you, the world fades out of sight,\nEvery moment, pure delight.\nNo need for words, no need for rhyme,\nJust your presence, worth the time. ⏳💑",
         "Physical Touch": " A brush of skin, a steady hold,\nA love so fierce, yet soft and bold. \nYour touch, a whisper soft and true, \n A silent way to say "I love you." 🤗💞",
